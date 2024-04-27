@@ -45,5 +45,5 @@ This C++ program provides functionality for compressing and decompressing text f
 - C++11 or higher compiler.
 
 ## Authors
-- [Saidulla Akmatov]
+- Saidulla Akmatov
 
