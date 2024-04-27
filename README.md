@@ -1,7 +1,5 @@
 # File-Compression-and-Decompression
 
-# File Compression and Decompression Program
-
 ## Introduction
 This C++ program provides functionality for compressing and decompressing text files using a simple Run-Length Encoding (RLE) algorithm. It allows users to compress the content of a text file and create a corresponding program to decompress the compressed file to retrieve the original content.
 
